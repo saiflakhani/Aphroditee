@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://saiflakhani.me/sitemap.xml
+Host: https://saiflakhani.me
